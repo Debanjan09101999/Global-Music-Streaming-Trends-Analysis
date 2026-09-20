@@ -47,6 +47,6 @@ The project revealed valuable insights into global music streaming behavior acro
 
 
 # Dashboard Preview 
-![alt text](https://github.com/Debanjan09101999/Global-Music-Streaming-Trends-Analysis/blob/main/music%201.png)
+![alt text](https://github.com/Debanjan09101999/Global-Music-Streaming-Trends-Analysis/blob/main/music%201.png)(https://github.com/Debanjan09101999/Global-Music-Streaming-Trends-Analysis/blob/main/music%202.png)
 
 
