@@ -37,16 +37,19 @@ ii) Power Bi
 The project revealed valuable insights into global music streaming behavior across countries and user types. Premium users consistently show higher engagement, especially for top artists like Dua Lipa and Post Malone. Listening time varies by region, with nighttime being most popular in countries like the UK and Brazil, while morning and afternoon preferences stand out in Japan and South Korea. Repeat song rates are highest for artists like Adele, Billie Eilish, and Ed Sheeran, showing strong fan loyalty. These patterns can help tailor content release timings, promotional campaigns, and artist engagement strategies. Free users can be targeted with personalized conversion offers. Country-specific preferences support localized marketing and tour planning. Overall, data-driven strategies can enhance user experience and platform growth.
 
 # Business Recommendations:
-●	Streaming platforms should enhance personalized recommendations to improve engagement.
-●	Increase exclusive content and premium features to convert free users into paid subscribers.
-●	Optimize marketing campaigns based on age-wise and region-wise preferences.
-●	Use AI-driven playlist curation to improve Discover Weekly Engagement.
-●	Streaming platforms should invest in AI-driven recommendations, exclusive content, and user-specific promotions to retain and grow their user base.
-●	Identify regions where free users have high engagement and roll out special promotions or partnerships to improve monetization without heavy price incentives.
-●	Send push notifications or in-app messages for new releases during preferred listening hours per country, improving click-through and listening rates.
+-	Streaming platforms should enhance personalized recommendations to improve engagement.
+-	Increase exclusive content and premium features to convert free users into paid subscribers.
+-	Optimize marketing campaigns based on age-wise and region-wise preferences.
+-	Use AI-driven playlist curation to improve Discover Weekly Engagement.
+-	Streaming platforms should invest in AI-driven recommendations, exclusive content, and user-specific promotions to retain and grow their user base.
+-	Identify regions where free users have high engagement and roll out special promotions or partnerships to improve monetization without heavy price incentives.
+-	Send push notifications or in-app messages for new releases during preferred listening hours per country, improving click-through and listening rates.
 
 
 # Dashboard Preview 
-![alt text](https://github.com/Debanjan09101999/Global-Music-Streaming-Trends-Analysis/blob/main/music%201.png)(https://github.com/Debanjan09101999/Global-Music-Streaming-Trends-Analysis/blob/main/music%202.png)
+![alt text](https://github.com/Debanjan09101999/Global-Music-Streaming-Trends-Analysis/blob/main/music%201.png)
+![alt text](https://github.com/Debanjan09101999/Global-Music-Streaming-Trends-Analysis/blob/main/music%202.png)
+![alt text](https://github.com/Debanjan09101999/Global-Music-Streaming-Trends-Analysis/blob/main/music%203.png)
+![alt text](https://github.com/Debanjan09101999/Global-Music-Streaming-Trends-Analysis/blob/main/music%204.png)
 
 
